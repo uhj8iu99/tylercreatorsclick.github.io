@@ -1,5 +1,1 @@
-# nut simulator
-
-thrilling clicker game with nuts
-
-play it here!! https://nutsimulator.github.io
+creds to nut sim for base. https://uhj8iu99.github.io/tylercreatorsclick.github.io/
